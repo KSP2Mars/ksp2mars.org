@@ -58,7 +58,6 @@ lines: # You can add HTML Tags in the Text
   - text: "Astronomy compels the soul to look upward, and leads us from this world to another. — Plato"
   - text: "The wonder is, not that the field of stars of so vast, but that man has measured it. — Anatole France"
   - text: "Equipped with his five senses, man explores the universe around him and calls the adventure Science. — Edwin Hubble"
-  - text: "Beam me up, Scotty — James T. Kirk"
   - text: "What are we doing here? We're reaching for the stars. — Christa McAuliffe"
   - text: "I'd like to die on Mars. Just not on impact. — Elon Musk"
 
@@ -148,16 +147,16 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
+#  - title: "facebook"
+#    url: "https://facebook.com/"
   - title: "twitter"
-    url: "https://twitter.com/"
-  - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://twitter.com/ksp2mars"
+#  - title: "github"
+#    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+#  - title: "bitcoin"
+#    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
-    url: "/feed.xml"
+    url: "https://blog.ksp2mars.org/feed.xml"
 
 ############
 # 404 page #
@@ -169,7 +168,7 @@ err-404-img: "https://blog.ksp2mars.org/assets/images/ksp2marsv1.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
+keybase-username: ksp2mars
 keybase-in-social: False
 keybase-in-footer: False
 
@@ -191,7 +190,7 @@ exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
 
 # Pagination path
 
-paginate_path: "blog/page:num/"
+paginate_path: "p/page:num/"
 
 # Enable minification SASS
 
