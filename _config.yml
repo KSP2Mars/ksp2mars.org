@@ -12,7 +12,7 @@ url: "https://ksp2mars.org"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /
+# baseurl: /
 
 # Google tracking id
 
@@ -29,17 +29,17 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "KSP2Mars"
+title: "KSP2Mars"
+description: "Kerbal Space Program Community Mars Mission"
+keywords: "mars, space, ksp, kerbal space program"
 favicon: "/img/favicon.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "https://blog.ksp2mars.org/assets/images/ksp2marsv1.png"
 
 background-img: "../img/intro-bg.jpg"
 
@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
   - text: "Where’s your will to be weird?"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "https://blog.ksp2mars.org/assets/images/ksp2marsv1.png"
 
 ##############################
 # Color the browser elements #
@@ -70,7 +70,7 @@ apple-status-bar-style: "black"
 # Web app mode #
 ################
 
-web-app-mode: True
+web-app-mode: False
 
 # Icons for Web App mode
 
@@ -85,7 +85,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 # Blog #
 ########
 
-enable-gesture-navigation: True
+enable-gesture-navigation: False
 
 post-preview-words: 96
 
@@ -102,9 +102,9 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: ""
 
-syntax-highlight: True
+syntax-highlight: False
 
 ############
 # Timeline #
@@ -126,7 +126,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "hello@ksp2mars.org"
 
 ################
 # Author Blurb #
@@ -159,15 +159,15 @@ social:
 # 404 page #
 ############
 
-err-404-img: "/img/labtocat.png"
+err-404-img: "https://blog.ksp2mars.org/assets/images/ksp2marsv1.png"
 
 ##################
 # GPG on Keybase #
 ##################
 
 keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+keybase-in-social: False
+keybase-in-footer: False
 
 ################################################################################
 
