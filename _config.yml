@@ -39,7 +39,7 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "https://blog.ksp2mars.org/assets/images/ksp2marsv1.png"
+black-favicon: "/img/favicon.ico"
 
 background-img: "https://blog.ksp2mars.org/assets/images/mars-surface1-min.jpg"
 
@@ -55,8 +55,12 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Astronomy compels the soul to look upward, and leads us from this world to another. — Plato"
+  - text: "The wonder is, not that the field of stars of so vast, but that man has measured it. — Anatole France"
+  - text: "Equipped with his five senses, man explores the universe around him and calls the adventure Science. — Edwin Hubble"
+  - text: "Beam me up, Scotty — James T. Kirk"
+  - text: "What are we doing here? We're reaching for the stars. — Christa McAuliffe"
+  - text: "I'd like to die on Mars. Just not on impact. — Elon Musk"
 
 me-img: "https://blog.ksp2mars.org/assets/images/ksp2marsv1.png"
 
