@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "https://blog.ksp2mars.org/assets/images/ksp2marsv1.png"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "https://blog.ksp2mars.org/assets/images/mars-surface1-min.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -102,7 +102,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: ""
+# disqus-shortname: ""
 
 syntax-highlight: False
 
