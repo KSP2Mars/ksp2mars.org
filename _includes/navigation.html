@@ -26,11 +26,18 @@
         {% if page.section-type == "index" %}
 
           <!-- Scroll to section for each page in index -->
-          {% for p in site.pages_list %}
             <li>
-              <a class="page-scroll" href="#{{ p[1] }}"> {{p[0]}} </a>
+              <a class="page-scroll" href="#about"> About </a>
             </li>
-          {% endfor %}
+            <li>
+              <a href="https://blog.ksp2mars.org"> Blog </a>
+            </li>
+            <li>
+              <a class="page-scroll" href="#timeline"> Timeline </a>
+            </li>
+            <li>
+              <a class="page-scroll" href="#contact"> Contact </a>
+            </li>
 
         {% else %}
           <!-- Blog, Post, Tag and Error pages -->
