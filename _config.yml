@@ -116,14 +116,17 @@ syntax-highlight: False
 events:
   - image: "/img/timeline/spidertocat.png"
     date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    description: "Design"
   - image: "/img/timeline/baracktocat.jpg"
     date: "September 2007 - August 2013"
-    description: "Started coding"
+    description: "Test"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "September 2007 - August 2013"
+    description: "Launch!"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+# timeline-img: "/img/timeline/default.png"
 
 ###########
 # Contact #
